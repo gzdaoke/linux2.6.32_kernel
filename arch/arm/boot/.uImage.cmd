@@ -1,0 +1,1 @@
+cmd_arch/arm/boot/uImage := /bin/sh /usr/local/dvsdk/psp/linux-2.6.32-rc2-psp03.01.00.37/scripts/mkuboot.sh -A arm -O linux -T kernel -C none -a 0x80008000 -e 0x80008000 -n 'Linux-2.6.32-rc2-davinci1' -d arch/arm/boot/zImage arch/arm/boot/uImage

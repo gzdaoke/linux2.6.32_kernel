@@ -1,0 +1,1 @@
+cmd_drivers/hid/built-in.o :=  /root/CodeSourcery/Sourcery_G++_Lite//bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/hid/built-in.o drivers/hid/hid.o drivers/hid/hid-logitech.o drivers/hid/hid-microsoft.o drivers/hid/usbhid/built-in.o 

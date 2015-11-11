@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/built-in.o :=  /root/CodeSourcery/Sourcery_G++_Lite//bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/net/phy/built-in.o drivers/net/phy/libphy.o drivers/net/phy/lxt.o drivers/net/phy/et1011c.o 

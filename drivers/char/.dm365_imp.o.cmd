@@ -1,0 +1,1 @@
+cmd_drivers/char/dm365_imp.o := /root/CodeSourcery/Sourcery_G++_Lite//bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/char/dm365_imp.o drivers/char/dm365_ipipe.o drivers/char/dm365_def_para.o drivers/char/dm365_ipipe_hw.o drivers/char/dm3xx_ipipe.o 

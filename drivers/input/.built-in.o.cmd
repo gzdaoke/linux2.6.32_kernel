@@ -1,0 +1,1 @@
+cmd_drivers/input/built-in.o :=  /root/CodeSourcery/Sourcery_G++_Lite//bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/input/built-in.o drivers/input/input-core.o drivers/input/ff-memless.o drivers/input/evdev.o drivers/input/evbug.o drivers/input/misc/built-in.o 
